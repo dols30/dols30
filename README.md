@@ -41,6 +41,14 @@ Exploring off-chain Ed25519 signature verification and X25519 key agreement for 
 **Data & ML:** Python, Pandas, scikit-learn, XGBoost, TensorFlow<br>
 **Applications & databases:** Swift, SwiftUI, C#, .NET MAUI, C++, MySQL, SQLite, Azure, Git
 
+## Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dols30/dols30/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dols30/dols30/output/github-snake.svg" />
+  <img alt="Snake animation tracing my GitHub contributions" src="https://raw.githubusercontent.com/dols30/dols30/output/github-snake.svg" width="100%" />
+</picture>
+
 <details>
 <summary>Academic honors</summary>
 
